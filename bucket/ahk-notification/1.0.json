@@ -1,0 +1,13 @@
+{
+    "autoupdate": {
+      "hash": {
+        "url": "https://github.com/fischgeek/JFApps/raw/master/Zip/AHK-Notification/SHASUMS256.txt.asc"
+      },
+      "url": "https://github.com/fischgeek/JFApps/raw/master/Zip/AHK-Notification/$version.zip"
+    },
+    "bin": "notification.ahk",
+    "description": "",
+    "hash": "sha256:01087e25f745cc7046b8fb6c0b91003724146e5ffbf02f0646918f825eca72ef",
+    "url": "https://github.com/fischgeek/JFApps/raw/master/Zip/AHK-Notification/1.0.zip",
+    "version": "1.0"
+  }
